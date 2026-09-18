@@ -1,2 +1,1 @@
-print('Treino de Git')
-print('Modulo de contagem de ativos ativado.')
+print('Versao da funcionalidade A')
