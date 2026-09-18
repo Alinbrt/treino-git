@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 print('Versao da funcionalidade A')
-=======
 print('Versao da funcionalidade B')
->>>>>>> feat/conflito-b
+print('Autenticacao e seguranca ativadas.')print('Autenticacao e seguranca ativadas.')
